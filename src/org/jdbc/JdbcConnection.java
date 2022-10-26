@@ -7,11 +7,18 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class JdbcConnection {
+	// adding new method for git 
+	
+	private void git() {
+	System.out.println("add a new line");
+
+	}
 	
 	public static void main(String[] args) throws SQLException {
 		
 		Connection connection=null;
 		
+	
 		try {
 			
 			//load driver -- throw exception
