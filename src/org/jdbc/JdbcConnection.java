@@ -7,6 +7,12 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class JdbcConnection {
+	//adding method 2
+	
+	  private void git2() {
+	System.out.println("adding new method");
+
+	}
 	
 	public static void main(String[] args) throws SQLException {
 		
