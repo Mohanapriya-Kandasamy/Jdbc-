@@ -13,6 +13,11 @@ public class JdbcConnection {
 	System.out.println("add a new line");
 
 	}
+	//adding method 2
+	private void git2() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	public static void main(String[] args) throws SQLException {
 		
