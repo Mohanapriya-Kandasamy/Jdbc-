@@ -18,6 +18,11 @@ public class JdbcConnection {
 		// TODO Auto-generated method stub
 
 	}
+	//adding method 3
+	private void git3() {
+		System.out.println("adding a new method");
+
+	}
 	
 	public static void main(String[] args) throws SQLException {
 		
